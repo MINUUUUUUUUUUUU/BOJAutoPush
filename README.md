@@ -6,6 +6,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MINUUUUUUUUUUUU/BOJAutoPush/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/MINUUUUUUUUUUUU/BOJAutoPush/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MINUUUUUUUUUUUU/BOJAutoPush/tree/master/0268-missing-number) |
 ## Hash Table
@@ -30,4 +31,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0217-contains-duplicate](https://github.com/MINUUUUUUUUUUUU/BOJAutoPush/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MINUUUUUUUUUUUU/BOJAutoPush/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MINUUUUUUUUUUUU/BOJAutoPush/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MINUUUUUUUUUUUU/BOJAutoPush/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
